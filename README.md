@@ -46,13 +46,28 @@ Matplotlib.pyplot'ta fonksiyon çağrıları boyunca çeşitli durumlar korunur,
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/4.ad%C4%B1m.jpg)
 
-Şimdi DHT22 modülü ile sıcaklık ve nem okumaya hazırız. 
-
-Sonra onları bulanık mantık sistemimiz üzerinde hesaplıyoruz.
+Şimdi DHT22 modülü ile sıcaklık ve nem okumaya hazırız. Sonra onları bulanık mantık sistemimiz üzerinde hesaplıyoruz.
 
 ..* Ayrıca, girdilerimizle belirsiz çıkarımlar yapıyoruz. Çıktıyı oluşturmak için bulanık kümeleme yapıyoruz. Çıktılar sayısal bir biçimdir. Bunu düşük, ortalama ve çok rahat olarak haritalayabiliriz.
  
 Bu durumdan,  hava hakkında karar verebiliriz. Soğuk ise bir makineyi açıp açmamak için karar verdiriyoruz.
+
+![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/5.ad%C4%B1m.jpg)
+
+![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/6.ad%C4%B1m.jpg)
+
+Sonuç:
+
+![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/Sonu%C3%A7.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
