@@ -16,7 +16,7 @@ Aldığımız bu karar durumlarını değerlendirerek bir klima veya kombiye ile
 
 Kullandığım kütüphaneler:
 
-** Numpy:Numpy kütüphanesi, bilimsel hesaplama  işlemleri kolaylaştırmak için yazılmış olan bir python kütüphanesidir.
+**Numpy:Numpy kütüphanesi, bilimsel hesaplama  işlemleri kolaylaştırmak için yazılmış olan bir python kütüphanesidir.
 
 Bir makine öğrenmesi,görüntü işleme ve yapay zeka konularında çalışma yaparken sıkça hesaplama işlemleri yapılmaktadır.
 
