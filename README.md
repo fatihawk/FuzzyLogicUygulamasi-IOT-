@@ -10,7 +10,7 @@ Sıcaklık için soğuk,ılık ve sıcak kararları var.Nemde ise düşük  ve y
 
 Aldığımız bu karar durumlarını değerlendirerek bir klima veya kombiye iletebiliriz.
 
-1) İlk olarak kütüphaneleri indirip,tanımladım.
+### 1) İlk olarak kütüphaneleri indirip,tanımladım.
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/1.ad%C4%B1m.jpg)
 
@@ -34,21 +34,21 @@ matplotlib.pyplot, matplotlib'in MATLAB gibi çalışmasını sağlayan komut ta
 
 Matplotlib.pyplot'ta fonksiyon çağrıları boyunca çeşitli durumlar korunur, böylece mevcut şekil ve çizim alanı gibi şeyleri takip eder ve çizim fonksiyonları mevcut eksenlere yönlendirilir.
 
-2) Uygulamada ilk adımın ardından röle ve DHT22’nin pinlerinin atamalarını yaptım.
+### 2) Uygulamada ilk adımın ardından röle ve DHT22’nin pinlerinin atamalarını yaptım.
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/2.ad%C4%B1m.jpg)
 
-3) Sonraki kısımda giriş ve çıkışları belirleyip,bunları "temperature_category()" ve "humidity_category()" içerisinde tanımlayıp üyelik oluşturdum.
+### 3) Sonraki kısımda giriş ve çıkışları belirleyip,bunları "temperature_category()" ve "humidity_category()" içerisinde tanımlayıp üyelik oluşturdum.
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/3.ad%C4%B1m.jpg)
 
-4) Ardından üyeliğimizi referans olarak yazdırıyoruz.Bunun için Matplotlib kütüphanesini kullandım.
+### 4) Ardından üyeliğimizi referans olarak yazdırıyoruz.Bunun için Matplotlib kütüphanesini kullandım.
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/4.ad%C4%B1m.jpg)
 
-5) Şimdi DHT22 modülü ile sıcaklık ve nem okumaya hazırız. Sonra onları bulanık mantık sistemimiz üzerinde hesaplıyoruz.
+### 5) Şimdi DHT22 modülü ile sıcaklık ve nem okumaya hazırız. Sonra onları bulanık mantık sistemimiz üzerinde hesaplıyoruz.
 
-* Ayrıca, girdilerimizle belirsiz çıkarımlar yapıyoruz. Çıktıyı oluşturmak için bulanık kümeleme yapıyoruz. Çıktılar sayısal bir biçimdir. Bunu düşük, ortalama ve çok rahat olarak haritalayabiliriz.
+##### * Ayrıca, girdilerimizle belirsiz çıkarımlar yapıyoruz. Çıktıyı oluşturmak için bulanık kümeleme yapıyoruz. Çıktılar sayısal bir biçimdir. Bunu düşük, ortalama ve çok rahat olarak haritalayabiliriz.
  
 Bu durumdan,  hava hakkında karar verebiliriz. Soğuk ise bir makineyi açıp açmamak için karar verdiriyoruz.
 
@@ -56,7 +56,7 @@ Bu durumdan,  hava hakkında karar verebiliriz. Soğuk ise bir makineyi açıp a
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/6.ad%C4%B1m.jpg)
 
-6) Sonuç:
+### 6) Sonuç:
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/Sonu%C3%A7.jpg)
 
