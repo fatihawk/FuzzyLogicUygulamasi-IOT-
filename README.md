@@ -10,7 +10,7 @@ Sıcaklık için soğuk,ılık ve sıcak kararları var.Nemde ise düşük  ve y
 
 Aldığımız bu karar durumlarını değerlendirerek bir klima veya kombiye iletebiliriz.
 
-**İlk olarak kütüphaneleri indirip,tanımladım.
+.*İlk olarak kütüphaneleri indirip,tanımladım.
 
 ![alt text](https://github.com/fatihawk/FuzzyLogicUygulamasi-IOT-/blob/master/1.ad%C4%B1m.jpg)
 
