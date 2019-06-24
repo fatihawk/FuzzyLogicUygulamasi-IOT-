@@ -16,7 +16,7 @@ Aldığımız bu karar durumlarını değerlendirerek bir klima veya kombiye ile
 
 Kullandığım kütüphaneler:
 
-**Numpy:Numpy kütüphanesi, bilimsel hesaplama  işlemleri kolaylaştırmak için yazılmış olan bir python kütüphanesidir.
+* Numpy:Numpy kütüphanesi, bilimsel hesaplama  işlemleri kolaylaştırmak için yazılmış olan bir python kütüphanesidir.
 
 Bir makine öğrenmesi,görüntü işleme ve yapay zeka konularında çalışma yaparken sıkça hesaplama işlemleri yapılmaktadır.
 
@@ -26,7 +26,7 @@ Matematiksel işlemleri çok hızlı yapmasından dolayı sıkça kullanılan bi
 
 Çok boyutlu diziler (array), çeşitli türetilmiş nesneler(maskelenmiş diziler ve matrisler gibi) ve bir sürü matematiksel , mantıksal, şekil manipülasyonu, sıralama, seçme, ayrık Fourier de dahil olmak üzere diziler üzerinde hızlı işlemler yapmamızı sağlayan Python kütüphanesidir.
 
-Matplotlib:Matplotlib; 2 boyutlu grafikler hazırlamamızı sağlayan bir Python kütüphanesidir.Tanımı böyle olmasına rağmen 3 boyutlu görselleştirme de yapılabiliyor.
+* Matplotlib:Matplotlib; 2 boyutlu grafikler hazırlamamızı sağlayan bir Python kütüphanesidir.Tanımı böyle olmasına rağmen 3 boyutlu görselleştirme de yapılabiliyor.
 
 plt.subplots(); bu metod ise bize bir Figure nesnesi ve istediğimiz kadar Axes nesnesi döndürür. 
 
